@@ -1,5 +1,4 @@
 # tony-Gaming
-GNU nano 7.2                    age.py
 
                         #   read  #
 
